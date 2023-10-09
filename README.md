@@ -8,8 +8,3 @@ For more info, check out the following links:
  - [WorkplaceDudes socials](https://linktr.ee/workplacedudes)
  - [WorkplaceDudes meetup](https://www.meetup.com/workplacedudes/)
  - [WorkplaceDudes CfS](https://sessionize.com/workplacedudes)
-
-Regards,
-Jeroen Burgerhout
-Engin Soysal
-Richard Sousa Ferreira
